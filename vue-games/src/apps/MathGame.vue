@@ -1,5 +1,5 @@
 <template>
-    <p>This is the Math Game Vue</p>
+    <p>This is the Math Game Vue and I can't wait to finish it.</p>
     <div>
         <div>
             <label for="user-name">Username</label>
